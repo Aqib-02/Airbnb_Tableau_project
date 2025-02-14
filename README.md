@@ -25,7 +25,7 @@ The project utilizes a federated dataset containing AirBnB listing details, pric
 - Interact with the dashboards to explore insights dynamically.
 
 ## Author
-[Your Name] (Replace with your GitHub profile link)
+Aqib uddin
 
 ---
 Feel free to contribute or suggest improvements!
